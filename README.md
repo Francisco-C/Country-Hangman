@@ -13,4 +13,4 @@ The must type a letter or try to guess the country name.
 
 The player has 6 lifes, its game over if all lives are lost.
 
-The player looses 1 life if the letter chosen is not part of the coumtry name or the player guess is wrong.
+The player loses 1 life if the letter chosen is not part of the coumtry name or the player guess is wrong.
